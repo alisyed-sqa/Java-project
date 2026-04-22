@@ -1,0 +1,6 @@
+Test: Registration
+Status: PH# required
+Test: Login
+Error: Invalid credentials
+Navigate: Home
+Status: PASS
