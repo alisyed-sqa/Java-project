@@ -1,7 +1,11 @@
 
-// Main.java: Entry point of the program
-// Demonstrates classes, control structures, interfaces, and file I/O
-
+/**
+ * Main.java: Entry point of the Java application
+ *
+ * This class serves as the main entry point and demonstrates various
+ * object-oriented programming concepts including classes, control structures,
+ * interfaces, file I/O, encapsulation, and inheritance.
+ */
 public class Main {
 
     public static void main(String[] args) {

@@ -1,14 +1,14 @@
 
 
 /**
- * Class.java: Represents a person with basic information
+ * Class.java: Demonstrates basic class structure and object creation
  *
- * This class demonstrates fundamental object-oriented programming concepts:
- * - Encapsulation: Data (fields) and behavior (methods) bundled together
- * - Constructors: Special methods for object initialization
- * - Instance methods: Operations that work on individual objects
+ * This class illustrates core object-oriented programming principles:
+ * - Encapsulation through data bundling
+ * - Constructor-based object initialization
+ * - Instance methods for data manipulation
  *
- * Usage: Create Person objects to store and display personal information
+ * Purpose: Create and display person objects with basic attributes
  */
 public class Class {
     // Instance variables (fields) - store data for each person object
